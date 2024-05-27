@@ -13,15 +13,34 @@ Currently, my research focuses on Tool Intelligence of LLMs and AI for Education
 
 # Publications
 
+## 2024
+
+### NHGMI: Heterogeneous graph multi-view infomax with node-wise contrasting samples selection
+> Knowledge-Based Systems
+
+Qing Li, Hang Ni and **Yuanchun Wang**
+[ [code](https://github.com/KennyNH/NHGMI), [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705124001552) ]
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="https://wangyc-99.github.io/images/pubs/nhgmi.jpg" alt="nhgmi.jpg">
+    </div>
+    <div style="flex: 2;">
+        A novel unsupervised method for heterogeneous graph representation learning, rooted in the principles of mutual information maximization
+    </div>
+</div>
+
+***
+
 ## 2023
 
 ### GKD: A General Knowledge Distillation Framework for Large-scale Pre-trained Language Model
 > Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 5: Industry Track)
+
 Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang, Jie Tang
-[code](https://github.com/aitsc/GLMKD), [PDF](https://aclanthology.org/2023.acl-industry.15.pdf)
+[ [code](https://github.com/aitsc/GLMKD), [PDF](https://aclanthology.org/2023.acl-industry.15.pdf) ]
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        ![main pic](https://wangyc-99.github.io/images/pubs/gkd.jpg)
+        <img src="https://wangyc-99.github.io/images/pubs/gkd.jpg" alt="gkd.jpg">
     </div>
     <div style="flex: 2;">
         A general knowledge distillation framework that supports distillation on larger-scale PLMs using various distillation methods.
@@ -31,10 +50,10 @@ Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang
 ### Are Intermediate Layers and Labels Really Necessary? A General Language Model Distillation Method
 > Findings of the Association for Computational Linguistics: ACL 2023
 Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang, Jie Tang
-[code](https://github.com/aitsc/GLMKD), [PDF](https://aclanthology.org/2023.findings-acl.614.pdf)
+[ [code](https://github.com/aitsc/GLMKD), [PDF](https://aclanthology.org/2023.findings-acl.614.pdf) ]
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        ![main pic](https://wangyc-99.github.io/images/pubs/glmd.jpg)
+        <img src="https://wangyc-99.github.io/images/pubs/glmd.jpg" alt="glmd.jpg">
     </div>
     <div style="flex: 2;">
         A general language model distillation (GLMD) method that performs two-stage word prediction distillation and vocabulary compression, which is simple and surprisingly shows extremely strong performance.
