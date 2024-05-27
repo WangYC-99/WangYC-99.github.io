@@ -24,12 +24,9 @@ Currently, my research focuses on **Tool Intelligence of LLMs** and **AI for Edu
     </div>
     <div style="flex: 2;">
         A solution-based LLM API-using methodology for academic information seeking.  It uses code with a solution as the reasoning method, where a solution is a pre-constructed API calling sequence. The addition of the solution reduces the difficulty for the model to understand the complex relationships between APIs. Code improves the efficiency of reasoning.
+        <br> [ [code](https://github.com/RUCKBReasoning/SoAy), [PDF](https://arxiv.org/pdf/2405.15165) ]
     </div>
 </div>
-[ [code](https://github.com/RUCKBReasoning/SoAy), [PDF](https://arxiv.org/pdf/2405.15165) ]
-
-
-***
 
 ## 2023
 
@@ -42,9 +39,11 @@ Currently, my research focuses on **Tool Intelligence of LLMs** and **AI for Edu
     </div>
     <div style="flex: 2;">
         A general knowledge distillation framework that supports distillation on larger-scale PLMs using various distillation methods.
+        <br> [ [code](https://github.com/aitsc/GLMKD), [PDF](https://aclanthology.org/2023.acl-industry.15.pdf) ]
     </div>
 </div>
-[ [code](https://github.com/aitsc/GLMKD), [PDF](https://aclanthology.org/2023.acl-industry.15.pdf) ]
+
+***
 
 ### Are Intermediate Layers and Labels Really Necessary? A General Language Model Distillation Method
 *Findings of the Association for Computational Linguistics: ACL 2023*
@@ -55,9 +54,9 @@ Currently, my research focuses on **Tool Intelligence of LLMs** and **AI for Edu
     </div>
     <div style="flex: 2;">
         A general language model distillation (GLMD) method that performs two-stage word prediction distillation and vocabulary compression, which is simple and surprisingly shows extremely strong performance.
+        <br> [ [code](https://github.com/aitsc/GLMKD), [PDF](https://aclanthology.org/2023.findings-acl.614.pdf) ]
     </div>
 </div>
-[ [code](https://github.com/aitsc/GLMKD), [PDF](https://aclanthology.org/2023.findings-acl.614.pdf) ]
 
 ## 2022
 
@@ -70,6 +69,6 @@ Currently, my research focuses on **Tool Intelligence of LLMs** and **AI for Edu
     </div>
     <div style="flex: 2;">
         A novel unsupervised method for heterogeneous graph representation learning, rooted in the principles of mutual information maximization.
+        </br> [ [code](https://github.com/KennyNH/NHGMI), [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705124001552) ]
     </div>
 </div>
-[ [code](https://github.com/KennyNH/NHGMI), [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705124001552) ]
