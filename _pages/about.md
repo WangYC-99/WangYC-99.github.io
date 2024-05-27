@@ -18,8 +18,7 @@ Currently, my research focuses on **Tool Intelligence of LLMs** and **AI for Edu
 
 ### NHGMI: Heterogeneous graph multi-view infomax with node-wise contrasting samples selection
 *Knowledge-Based Systems*
-\\ Qing Li, Hang Ni and **Yuanchun Wang**
-[ [code](https://github.com/KennyNH/NHGMI), [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705124001552) ]
+<br> Qing Li, Hang Ni and **Yuanchun Wang**
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <img src="https://wangyc-99.github.io/images/pubs/nhgmi.jpg" alt="nhgmi.jpg">
@@ -28,6 +27,7 @@ Currently, my research focuses on **Tool Intelligence of LLMs** and **AI for Edu
         A novel unsupervised method for heterogeneous graph representation learning, rooted in the principles of mutual information maximization
     </div>
 </div>
+[ [code](https://github.com/KennyNH/NHGMI), [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705124001552) ]
 
 ***
 
@@ -35,8 +35,7 @@ Currently, my research focuses on **Tool Intelligence of LLMs** and **AI for Edu
 
 ### GKD: A General Knowledge Distillation Framework for Large-scale Pre-trained Language Model
 *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 5: Industry Track)*
-\\ Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang, Jie Tang
-[ [code](https://github.com/aitsc/GLMKD), [PDF](https://aclanthology.org/2023.acl-industry.15.pdf) ]
+<br> Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang, Jie Tang
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <img src="https://wangyc-99.github.io/images/pubs/gkd.jpg" alt="gkd.jpg">
@@ -45,11 +44,11 @@ Currently, my research focuses on **Tool Intelligence of LLMs** and **AI for Edu
         A general knowledge distillation framework that supports distillation on larger-scale PLMs using various distillation methods.
     </div>
 </div>
+[ [code](https://github.com/aitsc/GLMKD), [PDF](https://aclanthology.org/2023.acl-industry.15.pdf) ]
 
 ### Are Intermediate Layers and Labels Really Necessary? A General Language Model Distillation Method
 *Findings of the Association for Computational Linguistics: ACL 2023*
-\\ Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang, Jie Tang
-[ [code](https://github.com/aitsc/GLMKD), [PDF](https://aclanthology.org/2023.findings-acl.614.pdf) ]
+<br> Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang, Jie Tang
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <img src="https://wangyc-99.github.io/images/pubs/glmd.jpg" alt="glmd.jpg">
@@ -58,3 +57,4 @@ Currently, my research focuses on **Tool Intelligence of LLMs** and **AI for Edu
         A general language model distillation (GLMD) method that performs two-stage word prediction distillation and vocabulary compression, which is simple and surprisingly shows extremely strong performance.
     </div>
 </div>
+[ [code](https://github.com/aitsc/GLMKD), [PDF](https://aclanthology.org/2023.findings-acl.614.pdf) ]
