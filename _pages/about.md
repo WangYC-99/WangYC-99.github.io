@@ -20,7 +20,7 @@ Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang
 [code](https://github.com/aitsc/GLMKD), [PDF](https://aclanthology.org/2023.findings-acl.614.pdf)
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        ![main pic](../images/glmd.jpg)
+        ![main pic](images/glmd.jpg)
     </div>
     <div style="flex: 2;">
         A general language model distillation (GLMD) method that performs two-stage word prediction distillation and vocabulary compression, which is simple and surprisingly shows extremely strong performance.
