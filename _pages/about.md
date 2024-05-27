@@ -15,12 +15,26 @@ Currently, my research focuses on Tool Intelligence of LLMs and AI for Education
 
 ## 2023
 
+### GKD: A General Knowledge Distillation Framework for Large-scale Pre-trained Language Model
+> Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 5: Industry Track)
+Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang, Jie Tang
+[code](https://github.com/aitsc/GLMKD), [PDF](https://aclanthology.org/2023.acl-industry.15.pdf)
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        ![main pic](https://wangyc-99.github.io/images/pubs/gkd.jpg)
+    </div>
+    <div style="flex: 2;">
+        A general knowledge distillation framework that supports distillation on larger-scale PLMs using various distillation methods.
+    </div>
+</div>
+
 ### Are Intermediate Layers and Labels Really Necessary? A General Language Model Distillation Method
+> Findings of the Association for Computational Linguistics: ACL 2023
 Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang, Jie Tang
 [code](https://github.com/aitsc/GLMKD), [PDF](https://aclanthology.org/2023.findings-acl.614.pdf)
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        ![main pic](images/glmd.jpg)
+        ![main pic](https://wangyc-99.github.io/images/pubs/glmd.jpg)
     </div>
     <div style="flex: 2;">
         A general language model distillation (GLMD) method that performs two-stage word prediction distillation and vocabulary compression, which is simple and surprisingly shows extremely strong performance.
