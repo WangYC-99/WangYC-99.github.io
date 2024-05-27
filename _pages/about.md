@@ -15,19 +15,19 @@ Currently, my research focuses on **Tool Intelligence of LLMs** and **AI for Edu
 # Publications
 
 ## 2024
-
-### NHGMI: Heterogeneous graph multi-view infomax with node-wise contrasting samples selection
-*Knowledge-Based Systems*
-<br> Qing Li, Hang Ni and **Yuanchun Wang**
+### A Solution-based LLM API-using Methodology for Academic Information Seeking
+*Arxiv*
+<br> **Yuanchun Wang**, Jifan Yu, Zijun Yao, Jing Zhang, Yuyang Xie, Shangqing Tu, Yiyang Fu, Youhe Feng, Jinkai Zhang, Jingyao Zhang, Bowen Huang, Yuanyao Li, Huihui Yuan, Lei Hou, Juanzi Li, Jie Tang
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        <img src="https://wangyc-99.github.io/images/pubs/nhgmi.jpg" alt="nhgmi.jpg">
+        <img src="https://wangyc-99.github.io/images/pubs/soay.jpg" alt="soay.jpg">
     </div>
     <div style="flex: 2;">
-        A novel unsupervised method for heterogeneous graph representation learning, rooted in the principles of mutual information maximization
+        A solution-based LLM API-using methodology for academic information seeking.  It uses code with a solution as the reasoning method, where a solution is a pre-constructed API calling sequence. The addition of the solution reduces the difficulty for the model to understand the complex relationships between APIs. Code improves the efficiency of reasoning.
     </div>
 </div>
-[ [code](https://github.com/KennyNH/NHGMI), [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705124001552) ]
+[ [code](https://github.com/RUCKBReasoning/SoAy), [PDF](https://arxiv.org/pdf/2405.15165) ]
+
 
 ***
 
@@ -58,3 +58,18 @@ Currently, my research focuses on **Tool Intelligence of LLMs** and **AI for Edu
     </div>
 </div>
 [ [code](https://github.com/aitsc/GLMKD), [PDF](https://aclanthology.org/2023.findings-acl.614.pdf) ]
+
+## 2022
+
+### NHGMI: Heterogeneous graph multi-view infomax with node-wise contrasting samples selection
+*Knowledge-Based Systems*
+<br> Qing Li, Hang Ni and **Yuanchun Wang**
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="https://wangyc-99.github.io/images/pubs/nhgmi.jpg" alt="nhgmi.jpg">
+    </div>
+    <div style="flex: 2;">
+        A novel unsupervised method for heterogeneous graph representation learning, rooted in the principles of mutual information maximization.
+    </div>
+</div>
+[ [code](https://github.com/KennyNH/NHGMI), [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705124001552) ]
