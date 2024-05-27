@@ -32,9 +32,6 @@ Currently, my research focuses on **Tool Intelligence of LLMs** and **AI for Edu
 </div>
 [[code](https://github.com/RUCKBReasoning/SoAy)], [[PDF](https://arxiv.org/pdf/2405.15165)], [[System](https://soay.aminer.cn)], [[Application](https://chatglm.cn/main/gdetail/65bf5a99396389a73ace9352)]
 
-
-***
-
 ## 2023
 
 ### GKD: A General Knowledge Distillation Framework for Large-scale Pre-trained Language Model
@@ -51,6 +48,8 @@ Currently, my research focuses on **Tool Intelligence of LLMs** and **AI for Edu
     </div>
 </div>
 [[code](https://github.com/aitsc/GLMKD)], [[PDF](https://aclanthology.org/2023.acl-industry.15.pdf)]
+
+***
 
 ### Are Intermediate Layers and Labels Really Necessary? A General Language Model Distillation Method
 *Findings of ACL 2023*
