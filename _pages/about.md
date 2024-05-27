@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 I am a Ph.D. student at the School of Information, Renmin University of China, under supervision of [Jing Zhang](https://xiaojingzi.github.io/). 
-At the same time, I'm an intern at KEG of Tsinghua University and ZHIPU AI, under supervision of [Jifan Yu](https://yujifan0326.github.io/). 
+At the same time, I'm an intern at THUKEG and ZHIPU.AI, under supervision of [Jifan Yu](https://yujifan0326.github.io/). 
 Privious to that, I graduated from [Honors College](https://honors.nwpu.edu.cn/) of Northwestern Polytechnical University, where I majored in Computer Science. 
-Currently, my research focuses on Tool Intelligence of LLMs and AI for Education.
+
+Currently, my research focuses on **Tool Intelligence of LLMs** and **AI for Education**.
 
 # Publications
 
 ## 2024
 
 ### NHGMI: Heterogeneous graph multi-view infomax with node-wise contrasting samples selection
-> Knowledge-Based Systems
-
-Qing Li, Hang Ni and **Yuanchun Wang**
+*Knowledge-Based Systems*
+\\ Qing Li, Hang Ni and **Yuanchun Wang**
 [ [code](https://github.com/KennyNH/NHGMI), [PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705124001552) ]
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -34,9 +34,8 @@ Qing Li, Hang Ni and **Yuanchun Wang**
 ## 2023
 
 ### GKD: A General Knowledge Distillation Framework for Large-scale Pre-trained Language Model
-> Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 5: Industry Track)
-
-Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang, Jie Tang
+*Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 5: Industry Track)*
+\\ Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang, Jie Tang
 [ [code](https://github.com/aitsc/GLMKD), [PDF](https://aclanthology.org/2023.acl-industry.15.pdf) ]
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -48,8 +47,8 @@ Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang
 </div>
 
 ### Are Intermediate Layers and Labels Really Necessary? A General Language Model Distillation Method
-> Findings of the Association for Computational Linguistics: ACL 2023
-Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang, Jie Tang
+*Findings of the Association for Computational Linguistics: ACL 2023*
+\\ Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang, Jie Tang
 [ [code](https://github.com/aitsc/GLMKD), [PDF](https://aclanthology.org/2023.findings-acl.614.pdf) ]
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
