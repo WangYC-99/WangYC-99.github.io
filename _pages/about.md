@@ -30,7 +30,7 @@ Currently, my research focuses on **Tool Intelligence of LLMs** and **AI for Edu
         To evaluate SOAY, we introduce SOAYBench, an evaluation benchmark accompanied by SOAYEval, built upon a cloned environment of APIs from AMiner.
     </div>
 </div>
-[[code](https://github.com/RUCKBReasoning/SoAy)], [[PDF](https://arxiv.org/pdf/2405.15165)], [[System](https://soay.aminer.cn)], [[Application](https://chatglm.cn/main/gdetail/65bf5a99396389a73ace9352)]
+[[code](https://github.com/RUCKBReasoning/SoAy)], [[PDF](https://arxiv.org/pdf/2405.15165)], [[System](https://soay.aminer.cn)], [[Application](https://chatglm.cn/main/gdetail/65bf5a99396389a73ace9352)], [[Model](https://huggingface.co/frederickwang99/soayllama_v2_7b)], [[Benchmark & Dataset](https://huggingface.co/datasets/frederickwang99/SoAyBench)]
 
 ## 2023
 
