@@ -8,9 +8,14 @@ redirect_from:
 ---
 I am a Ph.D. student at the School of Information, Renmin University of China, under supervision of [Jing Zhang](https://xiaojingzi.github.io/). 
 At the same time, I'm an intern at THUKEG and ZHIPU.AI, under supervision of [Jifan Yu](https://yujifan0326.github.io/). 
-Privious to that, I graduated from [Honors College](https://honors.nwpu.edu.cn/) of Northwestern Polytechnical University, where I majored in Computer Science. 
+Privious to that, I graduated from [Honors College](https://honors.nwpu.edu.cn/) of Northwestern Polytechnical University, where I majored in Computer Science and Technology. 
 
 Currently, my research focuses on **Tool Intelligence of LLMs** and **AI for Education**.
+Besides, I love soccer⚽️, photography📷 and snowboarding🏂. 
+Feel free to contact me for our shared interests whether in research or life.
+
+# What's New!
+We create a [Tool Intelligence Paper-reading List](https://github.com/RUCKBReasoning/ToolIntelligence_Reading_List), welcome to follow!
 
 # Publications
 
