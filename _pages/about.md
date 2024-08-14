@@ -11,15 +11,33 @@ At the same time, I'm an intern at THUKEG and ZHIPU.AI, under supervision of [Ji
 Previous to that, I graduated from [Honors College](https://honors.nwpu.edu.cn/) of Northwestern Polytechnical University, where I majored in Computer Science and Technology. 
 
 Currently, my research focuses on **Tool Intelligence of LLMs** and **AI for Education**.
-Besides, I love soccer⚽️, photography📷 and snowboarding🏂. 
+Besides, I love soccer⚽️, photography📷, and snowboarding🏂. 
+I also keep training for triathlon races 🏊 🚴 🏃.
 Feel free to contact me for our shared interests whether in research or life.
 
 # What's New!
-We create a [Tool Intelligence Paper-reading List](https://github.com/RUCKBReasoning/ToolIntelligence_Reading_List), welcome to follow!
+* [R-Eval](https://arxiv.org/abs/2406.11681) has been accepted by KDD'24!
+* We create a [Tool Intelligence Paper-reading List](https://github.com/RUCKBReasoning/ToolIntelligence_Reading_List), welcome to follow!
 
 # Publications
 
 ## 2024
+### R-Eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval Augmented Large Language Models
+*Proceedings of KDD'24 (Industry Track)*
+<br> Shangqing Tu and Yuanchun Wang (equal contribution), Jifan Yu, Yuyang Xie, Yaran Shi, Xiaozhi Wang, Jing Zhang, Lei Hou, Juanzi Li
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="https://wangyc-99.github.io/images/pubs/reval.jpg" alt="reval.jpg">
+    </div>
+    <div style="flex: 2;">
+        A Python toolkit designed to streamline the evaluation of different RAG workflows in conjunction with LLMs. Our toolkit, which supports popular built-in RAG workflows and allows for the incorporation of customized testing data on the specific domain.
+        * User-friendly: R-Eval provides easy-to-use scripts for running and analysing experiments with the given models and datasets automatically.
+        * Modular: R-Eval is designed to be modular, which allows users to easily extend the framework with new models, datasets, and analysis tools.
+        * Extensibility: The domain-agnostic design of R-Eval makes it easy to evaluate Retrieval Augmented Large Language Models on new domain based on our framework.
+    </div>
+</div>
+[[code](https://github.com/THU-KEG/R-Eval)], [[PDF](https://arxiv.org/pdf/2406.11681)]
+
 ### A Solution-based LLM API-using Methodology for Academic Information Seeking
 *Arxiv*
 <br> **Yuanchun Wang**, Jifan Yu, Zijun Yao, Jing Zhang, Yuyang Xie, Shangqing Tu, Yiyang Fu, Youhe Feng, Jinkai Zhang, Jingyao Zhang, Bowen Huang, Yuanyao Li, Huihui Yuan, Lei Hou, Juanzi Li, Jie Tang
