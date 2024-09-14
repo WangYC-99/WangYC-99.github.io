@@ -27,7 +27,7 @@ Feel free to contact me for our shared interests whether in research or life.
 <br> Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, Shangqing Tu, Zhanxin Hao, Rui Miao Li, Haoxuan Li, **Yuanchun Wang**, Hanming Li, Linlu Gong, Jie Cao, Jiayin Lin, Jinchang Zhou, Fei Qin, Haohua Wang, Jianxiao Jiang, Lijun Deng, Yisi Zhan, Chaojun Xiao, Xusheng Dai, Xuan Yan, Nianyi Lin, Nan Zhang, Ruixin Ni, Yang Dang, Lei Hou, Yu Zhang, Xu Han, Manli Li, Juanzi Li, Zhiyuan Liu, Huiqin Liu, Maosong Sun
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        <img src="https://wangyc-99.github.io/images/pubs/maic.jpg" alt="maic.jpg">
+        <img src="https://wangyc-99.github.io/images/pubs/maic.png" alt="maic.jpg">
     </div>
     <div style="flex: 2;">
         MAIC (Massive AI-empowered Course) is a new form of online education that leverages LLM-driven multi-agent systems. This project will continue to evolve, ultimately aiming to establish a comprehensive open platform that supports and unifies research, technology, and applications in exploring the possibilities of online education in the era of large model AI. to construct an AI-augmented classroom, balancing scalability with adaptivity.
