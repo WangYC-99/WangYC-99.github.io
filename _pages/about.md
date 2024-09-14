@@ -22,9 +22,21 @@ Feel free to contact me for our shared interests whether in research or life.
 # Publications
 
 ## 2024
+### From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
+*Arxiv preprint*
+<br> Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, Shangqing Tu, Zhanxin Hao, Rui Miao Li, Haoxuan Li, **Yuanchun Wang**, Hanming Li, Linlu Gong, Jie Cao, Jiayin Lin, Jinchang Zhou, Fei Qin, Haohua Wang, Jianxiao Jiang, Lijun Deng, Yisi Zhan, Chaojun Xiao, Xusheng Dai, Xuan Yan, Nianyi Lin, Nan Zhang, Ruixin Ni, Yang Dang, Lei Hou, Yu Zhang, Xu Han, Manli Li, Juanzi Li, Zhiyuan Liu, Huiqin Liu, Maosong Sun
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="https://wangyc-99.github.io/images/pubs/maic.jpg" alt="maic.jpg">
+    </div>
+    <div style="flex: 2;">
+        MAIC (Massive AI-empowered Course) is a new form of online education that leverages LLM-driven multi-agent systems. This project will continue to evolve, ultimately aiming to establish a comprehensive open platform that supports and unifies research, technology, and applications in exploring the possibilities of online education in the era of large model AI. to construct an AI-augmented classroom, balancing scalability with adaptivity.
+    </div>
+</div>
+
 ### R-Eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval Augmented Large Language Models
 *Proceedings of KDD'24 (Industry Track)*
-<br> Shangqing Tu and Yuanchun Wang (equal contribution), Jifan Yu, Yuyang Xie, Yaran Shi, Xiaozhi Wang, Jing Zhang, Lei Hou, Juanzi Li
+<br> Shangqing Tu and **Yuanchun Wang** (equal contribution), Jifan Yu, Yuyang Xie, Yaran Shi, Xiaozhi Wang, Jing Zhang, Lei Hou, Juanzi Li
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <img src="https://wangyc-99.github.io/images/pubs/reval.jpg" alt="reval.jpg">
@@ -39,7 +51,7 @@ Feel free to contact me for our shared interests whether in research or life.
 [[code](https://github.com/THU-KEG/R-Eval)], [[PDF](https://arxiv.org/pdf/2406.11681)]
 
 ### A Solution-based LLM API-using Methodology for Academic Information Seeking
-*Arxiv*
+*Arxiv preprint*
 <br> **Yuanchun Wang**, Jifan Yu, Zijun Yao, Jing Zhang, Yuyang Xie, Shangqing Tu, Yiyang Fu, Youhe Feng, Jinkai Zhang, Jingyao Zhang, Bowen Huang, Yuanyao Li, Huihui Yuan, Lei Hou, Juanzi Li, Jie Tang
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
