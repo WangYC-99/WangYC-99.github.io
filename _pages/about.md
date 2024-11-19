@@ -6,25 +6,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at the [School of Information](http://info.ruc.edu.cn/), Renmin University of China, under supervision of [Prof. Jing Zhang](https://xiaojingzi.github.io/). 
-
-At the same time, I'm a research intern at [THU-KEG](https://keg.cs.tsinghua.edu.cn/) and [ZHIPU.AI](https://www.zhipuai.cn/), under supervision of [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/), [Dr. Jifan Yu](https://yujifan0326.github.io/) and [Dr. Lei Hou](https://www.cs.tsinghua.edu.cn/info/1113/3938.htm). 
-
+I am a Ph.D. student at the [School of Information](http://info.ruc.edu.cn/), Renmin University of China, under supervision of [Prof. Jing Zhang](https://xiaojingzi.github.io/).  
+At the same time, I'm a research intern at [THU-KEG](https://keg.cs.tsinghua.edu.cn/) and [ZHIPU.AI](https://www.zhipuai.cn/), under supervision of [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/), [Dr. Jifan Yu](https://yujifan0326.github.io/) and [Dr. Lei Hou](https://www.cs.tsinghua.edu.cn/info/1113/3938.htm).  
 Previous to that, I graduated from [Honors College](https://honors.nwpu.edu.cn/) of Northwestern Polytechnical University, where I majored in Computer Science and Technology. 
 
 ### Interests
 Currently, my research focuses on **Tool Intelligence of LLMs**, **AI4Research** and **Academic Data Mining**.
-
-Besides, I love soccer⚽️, photography📷, and snowboarding🏂. 
-I also keep training for [triathlon races](https://en.wikipedia.org/wiki/Triathlon) 🏊 🚴 🏃 and [marathon races](https://en.wikipedia.org/wiki/Marathon) 🏃‍♂️.
-
+Besides, I love soccer⚽️, photography📷, and snowboarding🏂.  
+I also keep training for [triathlon races](https://en.wikipedia.org/wiki/Triathlon) 🏊 🚴 🏃 and [marathon races](https://en.wikipedia.org/wiki/Marathon) 🏃‍♂️.  
 Feel free to contact me for our shared interests whether in research or life.
 
 ### Professional Services
 * Program Committee Member @ CIKM'24 Resorce Track
 
 ### 🔔 Call For Collaboration
-I'm looking for highly motivated collaborators working on **AI4Research**, please feel free to drop me an email if you are interested. I can offer internship opportunities at [AMiner team](https://www.aminer.cn/) @ [ZHIPU.AI](https://www.zhipuai.cn/).
+I'm looking for highly motivated collaborators working on **AI4Research**, please feel free to drop me an email if you are interested.  
+I can offer internship opportunities at [AMiner team](https://www.aminer.cn/) @ [ZHIPU.AI](https://www.zhipuai.cn/).
 
 # What's New!
 * 🔔 [SoAy](https://arxiv.org/pdf/2405.15165) has been accepted by [KDD'25](https://kdd2025.kdd.org/). Appreciation to all the coauthors! - *Nov 2024*
