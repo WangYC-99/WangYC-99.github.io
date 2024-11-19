@@ -8,20 +8,21 @@ redirect_from:
 ---
 I am a Ph.D. student at the [School of Information](http://info.ruc.edu.cn/), Renmin University of China, under supervision of [Prof. Jing Zhang](https://xiaojingzi.github.io/).  
 At the same time, I'm a research intern at [THU-KEG](https://keg.cs.tsinghua.edu.cn/) and [ZHIPU.AI](https://www.zhipuai.cn/), under supervision of [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/), [Dr. Jifan Yu](https://yujifan0326.github.io/) and [Dr. Lei Hou](https://www.cs.tsinghua.edu.cn/info/1113/3938.htm).  
-Previous to that, I graduated from [Honors College](https://honors.nwpu.edu.cn/) of Northwestern Polytechnical University, where I majored in Computer Science and Technology. 
+Previous to that, I graduated from [Honors College](https://honors.nwpu.edu.cn/) of Northwestern Polytechnical University, where I majored in Computer Science and Technology, under supervision of [Prof. Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl=en). 
 
 ### Interests
 Currently, my research focuses on **Tool Intelligence of LLMs**, **AI4Research** and **Academic Data Mining**.
 Besides, I love soccer⚽️, photography📷, and snowboarding🏂.  
 I also keep training for [triathlon races](https://en.wikipedia.org/wiki/Triathlon) 🏊 🚴 🏃 and [marathon races](https://en.wikipedia.org/wiki/Marathon) 🏃‍♂️.  
-Feel free to contact me for our shared interests whether in research or life.
+Feel free to chat with me for our shared interests whether in research or life.
 
 ### Professional Services
 * Program Committee Member @ CIKM'24 Resorce Track
 
-### 🔔 Call For Collaboration
-I'm looking for highly motivated collaborators working on **AI4Research**, please feel free to drop me an email if you are interested.  
-I can offer internship opportunities at [AMiner team](https://www.aminer.cn/) @ [ZHIPU.AI](https://www.zhipuai.cn/).
+### 📢 Call For Collaboration ⚠️ ⚠️ ⚠️
+I'm looking for highly motivated collaborators working on **AI4Research**.  
+We can provide [internship opportunities](https://m.zhipin.com/mpa/html/weijd/weijd-job/e3a7ad203b03542a1Xx63NW9EldU?date8=20241119&sid=qr_self_jd&openWeapp=1) @ [ZHIPU.AI](https://www.zhipuai.cn/).  
+Drop me an email if you are interested.
 
 # What's New!
 * 🔔 [SoAy](https://arxiv.org/pdf/2405.15165) has been accepted by [KDD'25](https://kdd2025.kdd.org/). Appreciation to all the coauthors! - *Nov 2024*
