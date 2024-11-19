@@ -17,6 +17,7 @@ Currently, my research focuses on **Tool Intelligence of LLMs**, **AI4Research**
 
 Besides, I love soccer⚽️, photography📷, and snowboarding🏂. 
 I also keep training for [triathlon races](https://en.wikipedia.org/wiki/Triathlon) 🏊 🚴 🏃 and [marathon races](https://en.wikipedia.org/wiki/Marathon) 🏃‍♂️.
+
 Feel free to contact me for our shared interests whether in research or life.
 
 ### Professional Services
@@ -29,15 +30,15 @@ I'm looking for highly motivated collaborators working on **AI4Research**, pleas
 * 🔔 [SoAy](https://arxiv.org/pdf/2405.15165) has been accepted by [KDD'25](https://kdd2025.kdd.org/). Appreciation to all the coauthors! - *Nov 2024*
 * 🔔 [R-Eval](https://arxiv.org/abs/2406.11681) has been accepted by [KDD'24](https://kdd2024.kdd.org/). Appreciation to all the coauthors! - *May 2024*
 
-# Publications
 
+# Publications
 ## 2024
 ### From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
 *Arxiv preprint Sep 24*
 <br> Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, Shangqing Tu, Zhanxin Hao, Rui Miao Li, Haoxuan Li, **Yuanchun Wang**, Hanming Li, Linlu Gong, Jie Cao, Jiayin Lin, Jinchang Zhou, Fei Qin, Haohua Wang, Jianxiao Jiang, Lijun Deng, Yisi Zhan, Chaojun Xiao, Xusheng Dai, Xuan Yan, Nianyi Lin, Nan Zhang, Ruixin Ni, Yang Dang, Lei Hou, Yu Zhang, Xu Han, Manli Li, Juanzi Li, Zhiyuan Liu, Huiqin Liu, Maosong Sun
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        <img src="https://wangyc-99.github.io/images/pubs/maic.png" alt="maic.jpg">
+        <img src="https://wangyc-99.github.io/images/pubs/maic.jpg" alt="maic.jpg">
     </div>
     <div style="flex: 2;">
         MAIC (Massive AI-empowered Course) is a new form of online education that leverages LLM-driven multi-agent systems. 
@@ -62,7 +63,7 @@ I'm looking for highly motivated collaborators working on **AI4Research**, pleas
 </div>
 [[code](https://github.com/THU-KEG/R-Eval)], [[PDF](https://arxiv.org/pdf/2406.11681)]
 
-### A Solution-based LLM API-using Methodology for Academic Information Seeking
+### SoAy: A Solution-based LLM API-using Methodology for Academic Information Seeking
 *KDD'25*
 <br> **Yuanchun Wang**, Jifan Yu, Zijun Yao, Jing Zhang, Yuyang Xie, Shangqing Tu, Yiyang Fu, Youhe Feng, Jinkai Zhang, Jingyao Zhang, Bowen Huang, Yuanyao Li, Huihui Yuan, Lei Hou, Juanzi Li, Jie Tang
 <div style="display: flex; align-items: center;">
@@ -74,12 +75,11 @@ I'm looking for highly motivated collaborators working on **AI4Research**, pleas
         It uses code with a solution as the reasoning method, where a solution is a pre-constructed API calling sequence. 
         The addition of the solution reduces the difficulty for the model to understand the complex relationships between APIs. 
         Code improves the efficiency of reasoning.
-        To evaluate SOAY, we introduce SOAYBench, an evaluation benchmark accompanied by SOAYEval, built upon a cloned environment of APIs from AMiner.
+        To evaluate SoAy, we introduce SoAyBench, an evaluation benchmark accompanied by SoAyEval, built upon a cloned environment of APIs from AMiner.
     </div>
 </div>
 [[code](https://github.com/RUCKBReasoning/SoAy)], [[PDF](https://arxiv.org/pdf/2405.15165)], [[System](https://soay.aminer.cn)], [[Application](https://chatglm.cn/main/gdetail/65bf5a99396389a73ace9352)], [[Model](https://huggingface.co/frederickwang99/soayllama_v2_7b)], [[Benchmark & Dataset](https://huggingface.co/datasets/frederickwang99/SoAyBench)]
 
-***
 
 ## 2023
 
@@ -112,8 +112,6 @@ I'm looking for highly motivated collaborators working on **AI4Research**, pleas
     </div>
 </div>
 [[code](https://github.com/aitsc/GLMKD)], [[PDF](https://aclanthology.org/2023.findings-acl.614.pdf)]
-
-***
 
 ## 2022
 
