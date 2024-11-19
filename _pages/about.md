@@ -7,19 +7,22 @@ redirect_from:
   - /about.html
 ---
 I am a Ph.D. student at the [School of Information](http://info.ruc.edu.cn/), Renmin University of China, under supervision of [Prof. Jing Zhang](https://xiaojingzi.github.io/). 
+
 At the same time, I'm a research intern at [THU-KEG](https://keg.cs.tsinghua.edu.cn/) and [ZHIPU.AI](https://www.zhipuai.cn/), under supervision of [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/), [Dr. Jifan Yu](https://yujifan0326.github.io/) and [Dr. Lei Hou](https://www.cs.tsinghua.edu.cn/info/1113/3938.htm). 
+
 Previous to that, I graduated from [Honors College](https://honors.nwpu.edu.cn/) of Northwestern Polytechnical University, where I majored in Computer Science and Technology. 
 
-### Interests
-Currently, my research focuses on **Tool Intelligence of LLMs**, **AI4Research** and **Academic Data Mining**, .
+## Interests
+Currently, my research focuses on **Tool Intelligence of LLMs**, **AI4Research** and **Academic Data Mining**.
+
 Besides, I love soccer⚽️, photography📷, and snowboarding🏂. 
 I also keep training for [triathlon races](https://en.wikipedia.org/wiki/Triathlon) 🏊 🚴 🏃 and [marathon races](https://en.wikipedia.org/wiki/Marathon) 🏃‍♂️.
 Feel free to contact me for our shared interests whether in research or life.
 
-### Professional Services
+## Professional Services
 * Program Committee Member @ CIKM'24 Resorce Track
 
-### 🔔 Call For Collaboration
+## 🔔 Call For Collaboration
 I'm looking for highly motivated collaborators working on **AI4Research**, please feel free to drop me an email if you are interested. I can offer internship opportunities at [AMiner team](https://www.aminer.cn/) @ [ZHIPU.AI](https://www.zhipuai.cn/).
 
 # What's New!
@@ -30,16 +33,18 @@ I'm looking for highly motivated collaborators working on **AI4Research**, pleas
 
 ## 2024
 ### From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
-*Arxiv preprint*
+*Arxiv preprint Sep 24*
 <br> Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, Shangqing Tu, Zhanxin Hao, Rui Miao Li, Haoxuan Li, **Yuanchun Wang**, Hanming Li, Linlu Gong, Jie Cao, Jiayin Lin, Jinchang Zhou, Fei Qin, Haohua Wang, Jianxiao Jiang, Lijun Deng, Yisi Zhan, Chaojun Xiao, Xusheng Dai, Xuan Yan, Nianyi Lin, Nan Zhang, Ruixin Ni, Yang Dang, Lei Hou, Yu Zhang, Xu Han, Manli Li, Juanzi Li, Zhiyuan Liu, Huiqin Liu, Maosong Sun
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <img src="https://wangyc-99.github.io/images/pubs/maic.png" alt="maic.jpg">
     </div>
     <div style="flex: 2;">
-        MAIC (Massive AI-empowered Course) is a new form of online education that leverages LLM-driven multi-agent systems. This project will continue to evolve, ultimately aiming to establish a comprehensive open platform that supports and unifies research, technology, and applications in exploring the possibilities of online education in the era of large model AI. to construct an AI-augmented classroom, balancing scalability with adaptivity.
+        MAIC (Massive AI-empowered Course) is a new form of online education that leverages LLM-driven multi-agent systems. 
+        The teacher, assistants and even classmates in traditional classrooms are replaced by LLM Agents. In MAIC, every student is envolved in a personal virtual classroom and given a unique learning experience. This project will continue to evolve, ultimately aiming to establish a comprehensive open platform that supports and unifies research, technology, and applications in exploring the possibilities of online education in the era of large model AI to construct an AI-augmented classroom, balancing scalability with adaptivity.
     </div>
 </div>
+[[PDF](https://arxiv.org/pdf/2409.03512v1)]
 
 ### R-Eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval Augmented Large Language Models
 *KDD'24*
