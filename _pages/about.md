@@ -12,17 +12,17 @@ At the same time, I'm a research intern at [THU-KEG](https://keg.cs.tsinghua.edu
 
 Previous to that, I graduated from [Honors College](https://honors.nwpu.edu.cn/) of Northwestern Polytechnical University, where I majored in Computer Science and Technology. 
 
-## Interests
+### Interests
 Currently, my research focuses on **Tool Intelligence of LLMs**, **AI4Research** and **Academic Data Mining**.
 
 Besides, I love soccer⚽️, photography📷, and snowboarding🏂. 
 I also keep training for [triathlon races](https://en.wikipedia.org/wiki/Triathlon) 🏊 🚴 🏃 and [marathon races](https://en.wikipedia.org/wiki/Marathon) 🏃‍♂️.
 Feel free to contact me for our shared interests whether in research or life.
 
-## Professional Services
+### Professional Services
 * Program Committee Member @ CIKM'24 Resorce Track
 
-## 🔔 Call For Collaboration
+### 🔔 Call For Collaboration
 I'm looking for highly motivated collaborators working on **AI4Research**, please feel free to drop me an email if you are interested. I can offer internship opportunities at [AMiner team](https://www.aminer.cn/) @ [ZHIPU.AI](https://www.zhipuai.cn/).
 
 # What's New!
