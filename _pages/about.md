@@ -6,18 +6,25 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at the School of Information, Renmin University of China, under supervision of [Jing Zhang](https://xiaojingzi.github.io/). 
-At the same time, I'm an intern at THUKEG and ZHIPU.AI, under supervision of [Jifan Yu](https://yujifan0326.github.io/). 
+I am a Ph.D. student at the [School of Information](http://info.ruc.edu.cn/), Renmin University of China, under supervision of [Prof. Jing Zhang](https://xiaojingzi.github.io/). 
+At the same time, I'm a research intern at [THU-KEG](https://keg.cs.tsinghua.edu.cn/) and [ZHIPU.AI](https://www.zhipuai.cn/), under supervision of [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/), [Dr. Jifan Yu](https://yujifan0326.github.io/) and [Dr. Lei Hou](https://www.cs.tsinghua.edu.cn/info/1113/3938.htm). 
 Previous to that, I graduated from [Honors College](https://honors.nwpu.edu.cn/) of Northwestern Polytechnical University, where I majored in Computer Science and Technology. 
 
-Currently, my research focuses on **Tool Intelligence of LLMs** and **AI for Education**.
+### Interests
+Currently, my research focuses on **Tool Intelligence of LLMs**, **AI4Research** and **Academic Data Mining**, .
 Besides, I love soccer⚽️, photography📷, and snowboarding🏂. 
-I also keep training for triathlon races 🏊 🚴 🏃.
+I also keep training for [triathlon races](https://en.wikipedia.org/wiki/Triathlon) 🏊 🚴 🏃 and [marathon races](https://en.wikipedia.org/wiki/Marathon) 🏃‍♂️.
 Feel free to contact me for our shared interests whether in research or life.
 
+### Professional Services
+* Program Committee Member @ CIKM'24 Resorce Track
+
+### 🔔 Call For Collaboration
+I'm looking for highly motivated collaborators working on **AI4Research**, please feel free to drop me an email if you are interested. I can offer internship opportunities at [AMiner team](https://www.aminer.cn/) @ [ZHIPU.AI](https://www.zhipuai.cn/).
+
 # What's New!
-* [R-Eval](https://arxiv.org/abs/2406.11681) has been accepted by KDD'24!
-* We create a [Tool Intelligence Paper-reading List](https://github.com/RUCKBReasoning/ToolIntelligence_Reading_List), welcome to follow!
+* 🔔 [SoAy](https://arxiv.org/pdf/2405.15165) has been accepted by [KDD'25](https://kdd2025.kdd.org/). Appreciation to all the coauthors! - *Nov 2024*
+* 🔔 [R-Eval](https://arxiv.org/abs/2406.11681) has been accepted by [KDD'24](https://kdd2024.kdd.org/). Appreciation to all the coauthors! - *May 2024*
 
 # Publications
 
@@ -35,8 +42,8 @@ Feel free to contact me for our shared interests whether in research or life.
 </div>
 
 ### R-Eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval Augmented Large Language Models
-*Proceedings of KDD'24 (Industry Track)*
-<br> Shangqing Tu and **Yuanchun Wang** (equal contribution), Jifan Yu, Yuyang Xie, Yaran Shi, Xiaozhi Wang, Jing Zhang, Lei Hou, Juanzi Li
+*KDD'24*
+<br> Shangqing Tu * and **Yuanchun Wang** *, Jifan Yu, Yuyang Xie, Yaran Shi, Xiaozhi Wang, Jing Zhang, Lei Hou, Juanzi Li
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <img src="https://wangyc-99.github.io/images/pubs/reval.jpg" alt="reval.jpg">
@@ -51,7 +58,7 @@ Feel free to contact me for our shared interests whether in research or life.
 [[code](https://github.com/THU-KEG/R-Eval)], [[PDF](https://arxiv.org/pdf/2406.11681)]
 
 ### A Solution-based LLM API-using Methodology for Academic Information Seeking
-*Arxiv preprint*
+*KDD'25*
 <br> **Yuanchun Wang**, Jifan Yu, Zijun Yao, Jing Zhang, Yuyang Xie, Shangqing Tu, Yiyang Fu, Youhe Feng, Jinkai Zhang, Jingyao Zhang, Bowen Huang, Yuanyao Li, Huihui Yuan, Lei Hou, Juanzi Li, Jie Tang
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -67,10 +74,12 @@ Feel free to contact me for our shared interests whether in research or life.
 </div>
 [[code](https://github.com/RUCKBReasoning/SoAy)], [[PDF](https://arxiv.org/pdf/2405.15165)], [[System](https://soay.aminer.cn)], [[Application](https://chatglm.cn/main/gdetail/65bf5a99396389a73ace9352)], [[Model](https://huggingface.co/frederickwang99/soayllama_v2_7b)], [[Benchmark & Dataset](https://huggingface.co/datasets/frederickwang99/SoAyBench)]
 
+***
+
 ## 2023
 
 ### GKD: A General Knowledge Distillation Framework for Large-scale Pre-trained Language Model
-*Proceedings of ACL'23 (Industry Track)*
+*ACL'23*
 <br> Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang, Jie Tang
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -83,8 +92,6 @@ Feel free to contact me for our shared interests whether in research or life.
     </div>
 </div>
 [[code](https://github.com/aitsc/GLMKD)], [[PDF](https://aclanthology.org/2023.acl-industry.15.pdf)]
-
-***
 
 ### Are Intermediate Layers and Labels Really Necessary? A General Language Model Distillation Method
 *Findings of ACL 2023*
@@ -100,6 +107,8 @@ Feel free to contact me for our shared interests whether in research or life.
     </div>
 </div>
 [[code](https://github.com/aitsc/GLMKD)], [[PDF](https://aclanthology.org/2023.findings-acl.614.pdf)]
+
+***
 
 ## 2022
 
