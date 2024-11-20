@@ -20,7 +20,7 @@ Feel free to chat with me for our shared interests whether in research or life.
 * Program Committee Member @ CIKM'24 Resorce Track
 
 ### 📢 Call For Collaboration ⚠️ ⚠️ ⚠️
-I'm looking for highly motivated collaborators working on **AI4Research**.  
+I'm looking for <font color=red>highly motivated collaborators</font> working on **AI4Research**.  
 We can provide [internship opportunities](https://m.zhipin.com/mpa/html/weijd/weijd-job/e3a7ad203b03542a1Xx63NW9EldU?date8=20241119&sid=qr_self_jd&openWeapp=1) @ [ZHIPU.AI](https://www.zhipuai.cn/).  
 Drop me an email if you are interested.
 
@@ -46,7 +46,7 @@ Drop me an email if you are interested.
 [[PDF](https://arxiv.org/pdf/2409.03512v1)]
 
 ### R-Eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval Augmented Large Language Models
-*KDD'24*
+<font color=red>*KDD'24*</font>
 <br> Shangqing Tu * and **Yuanchun Wang** *, Jifan Yu, Yuyang Xie, Yaran Shi, Xiaozhi Wang, Jing Zhang, Lei Hou, Juanzi Li
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -62,7 +62,7 @@ Drop me an email if you are interested.
 [[code](https://github.com/THU-KEG/R-Eval)], [[PDF](https://arxiv.org/pdf/2406.11681)]
 
 ### SoAy: A Solution-based LLM API-using Methodology for Academic Information Seeking
-*KDD'25*
+<font color=red>*KDD'25*</font>
 <br> **Yuanchun Wang**, Jifan Yu, Zijun Yao, Jing Zhang, Yuyang Xie, Shangqing Tu, Yiyang Fu, Youhe Feng, Jinkai Zhang, Jingyao Zhang, Bowen Huang, Yuanyao Li, Huihui Yuan, Lei Hou, Juanzi Li, Jie Tang
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -82,7 +82,7 @@ Drop me an email if you are interested.
 ## 2023
 
 ### Authorship style transfer with inverse transfer data augmentation
-*ACL'23*
+<font color=red>*AI Open*</font>
 <br> Zhonghui Shao, Jing Zhang, Haoyang Li, Xinmei Huang, Chao Zhou, **Yuanchun Wang**, Jibing Gong, Cuiping Li, Hong Chen
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -102,7 +102,7 @@ Drop me an email if you are interested.
 [[code](https://github.com/Vicky-Shao/ITDA)], [[PDF](https://www.sciencedirect.com/science/article/pii/S2666651024000135)]
 
 ### GKD: A General Knowledge Distillation Framework for Large-scale Pre-trained Language Model
-*ACL'23*
+<font color=red>*ACL'23*</font>
 <br> Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang, Jie Tang
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -117,7 +117,7 @@ Drop me an email if you are interested.
 [[code](https://github.com/aitsc/GLMKD)], [[PDF](https://aclanthology.org/2023.acl-industry.15.pdf)]
 
 ### Are Intermediate Layers and Labels Really Necessary? A General Language Model Distillation Method
-*Findings of ACL 2023*
+<font color=red>*Findings of ACL 2023*</font>
 <br> Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang, Jie Tang
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -134,7 +134,7 @@ Drop me an email if you are interested.
 ## 2022
 
 ### NHGMI: Heterogeneous graph multi-view infomax with node-wise contrasting samples selection
-*Knowledge-Based Systems*
+<font color=red>*Knowledge-Based Systems*</font>
 <br> Qing Li, Hang Ni and **Yuanchun Wang**
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
