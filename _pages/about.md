@@ -81,6 +81,26 @@ Drop me an email if you are interested.
 
 ## 2023
 
+### Authorship style transfer with inverse transfer data augmentation
+*ACL'23*
+<br> Zhonghui Shao, Jing Zhang, Haoyang Li, Xinmei Huang, Chao Zhou, **Yuanchun Wang**, Jibing Gong, Cuiping Li, Hong Chen
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="https://wangyc-99.github.io/images/pubs/style-transfer.jpg" alt="style-transfer.jpg">
+    </div>
+    <div style="flex: 2;">
+        Authorship style transfer aims to modify the style of neutral text to match the unique speaking or writing style
+        of a particular individual. This paper proposes an inverse transfer data augmentation
+        (ITDA) method, leveraging LLMs to create (neutral text, stylized text) pairs. This method involves removing
+        the existing styles from stylized texts, a process made more feasible due to the prevalence of neutral texts in
+        pre-training. We use this augmented dataset to train a compact model that is efficient for deployment and
+        adept at replicating the targeted style. Our experimental results, conducted across four datasets with distinct
+        authorship styles, establish the effectiveness of ITDA over traditional style transfer methods and forward
+        transfer using GPT-3.5. 
+    </div>
+</div>
+[[code](https://github.com/Vicky-Shao/ITDA)], [[PDF](https://www.sciencedirect.com/science/article/pii/S2666651024000135)]
+
 ### GKD: A General Knowledge Distillation Framework for Large-scale Pre-trained Language Model
 *ACL'23*
 <br> Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang, Jie Tang
