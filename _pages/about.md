@@ -31,8 +31,8 @@ Drop me an email if you are interested.
 
 # Publications
 ## 2024
-### From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents
-*Arxiv preprint Sep 24*
+### From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents 
+[[PDF](https://arxiv.org/pdf/2409.03512v1)]
 <br> Jifan Yu, Zheyuan Zhang, Daniel Zhang-li, Shangqing Tu, Zhanxin Hao, Rui Miao Li, Haoxuan Li, **Yuanchun Wang**, Hanming Li, Linlu Gong, Jie Cao, Jiayin Lin, Jinchang Zhou, Fei Qin, Haohua Wang, Jianxiao Jiang, Lijun Deng, Yisi Zhan, Chaojun Xiao, Xusheng Dai, Xuan Yan, Nianyi Lin, Nan Zhang, Ruixin Ni, Yang Dang, Lei Hou, Yu Zhang, Xu Han, Manli Li, Juanzi Li, Zhiyuan Liu, Huiqin Liu, Maosong Sun
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -43,10 +43,9 @@ Drop me an email if you are interested.
         The teacher, assistants and even classmates in traditional classrooms are replaced by LLM Agents. In MAIC, every student is envolved in a personal virtual classroom and given a unique learning experience. This project will continue to evolve, ultimately aiming to establish a comprehensive open platform that supports and unifies research, technology, and applications in exploring the possibilities of online education in the era of large model AI to construct an AI-augmented classroom, balancing scalability with adaptivity.
     </div>
 </div>
-[[PDF](https://arxiv.org/pdf/2409.03512v1)]
 
-### R-Eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval Augmented Large Language Models
-<font color=red>*KDD'24*</font>
+### <font color=red>[KDD'24]</font> R-Eval: A Unified Toolkit for Evaluating Domain Knowledge of Retrieval Augmented Large Language Models
+[[code](https://github.com/THU-KEG/R-Eval)], [[PDF](https://arxiv.org/pdf/2406.11681)]
 <br> Shangqing Tu * and **Yuanchun Wang** *, Jifan Yu, Yuyang Xie, Yaran Shi, Xiaozhi Wang, Jing Zhang, Lei Hou, Juanzi Li
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -59,10 +58,9 @@ Drop me an email if you are interested.
         * Extensibility: The domain-agnostic design of R-Eval makes it easy to evaluate Retrieval Augmented Large Language Models on new domain based on our framework.
     </div>
 </div>
-[[code](https://github.com/THU-KEG/R-Eval)], [[PDF](https://arxiv.org/pdf/2406.11681)]
 
-### SoAy: A Solution-based LLM API-using Methodology for Academic Information Seeking
-<font color=red>*KDD'25*</font>
+### <font color=red>[KDD'25]</font> SoAy: A Solution-based LLM API-using Methodology for Academic Information Seeking
+[[code](https://github.com/RUCKBReasoning/SoAy)], [[PDF](https://arxiv.org/pdf/2405.15165)], [[System](https://soay.aminer.cn)], [[Application](https://chatglm.cn/main/gdetail/65bf5a99396389a73ace9352)], [[Model](https://huggingface.co/frederickwang99/soayllama_v2_7b)], [[Benchmark & Dataset](https://huggingface.co/datasets/frederickwang99/SoAyBench)]
 <br> **Yuanchun Wang**, Jifan Yu, Zijun Yao, Jing Zhang, Yuyang Xie, Shangqing Tu, Yiyang Fu, Youhe Feng, Jinkai Zhang, Jingyao Zhang, Bowen Huang, Yuanyao Li, Huihui Yuan, Lei Hou, Juanzi Li, Jie Tang
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -76,13 +74,11 @@ Drop me an email if you are interested.
         To evaluate SoAy, we introduce SoAyBench, an evaluation benchmark accompanied by SoAyEval, built upon a cloned environment of APIs from AMiner.
     </div>
 </div>
-[[code](https://github.com/RUCKBReasoning/SoAy)], [[PDF](https://arxiv.org/pdf/2405.15165)], [[System](https://soay.aminer.cn)], [[Application](https://chatglm.cn/main/gdetail/65bf5a99396389a73ace9352)], [[Model](https://huggingface.co/frederickwang99/soayllama_v2_7b)], [[Benchmark & Dataset](https://huggingface.co/datasets/frederickwang99/SoAyBench)]
-
 
 ## 2023
 
-### Authorship style transfer with inverse transfer data augmentation
-<font color=red>*AI Open*</font>
+### <font color=red>[AI Open]</font> Authorship style transfer with inverse transfer data augmentation
+[[code](https://github.com/Vicky-Shao/ITDA)], [[PDF](https://www.sciencedirect.com/science/article/pii/S2666651024000135)]
 <br> Zhonghui Shao, Jing Zhang, Haoyang Li, Xinmei Huang, Chao Zhou, **Yuanchun Wang**, Jibing Gong, Cuiping Li, Hong Chen
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -99,10 +95,9 @@ Drop me an email if you are interested.
         transfer using GPT-3.5. 
     </div>
 </div>
-[[code](https://github.com/Vicky-Shao/ITDA)], [[PDF](https://www.sciencedirect.com/science/article/pii/S2666651024000135)]
 
-### GKD: A General Knowledge Distillation Framework for Large-scale Pre-trained Language Model
-<font color=red>*ACL'23*</font>
+### <font color=red>[ACL'23]</font> GKD: A General Knowledge Distillation Framework for Large-scale Pre-trained Language Model
+[[code](https://github.com/aitsc/GLMKD)], [[PDF](https://aclanthology.org/2023.acl-industry.15.pdf)]
 <br> Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang, Jie Tang
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -114,10 +109,9 @@ Drop me an email if you are interested.
         Experimental results show that GKD can support the distillation of at least 100B-scale PLMs and 25 mainstream methods on 8 NVIDIA A100 (40GB) GPUs.
     </div>
 </div>
-[[code](https://github.com/aitsc/GLMKD)], [[PDF](https://aclanthology.org/2023.acl-industry.15.pdf)]
 
-### Are Intermediate Layers and Labels Really Necessary? A General Language Model Distillation Method
-<font color=red>*Findings of ACL 2023*</font>
+### <font color=red>[ACL'23 Findings] </font>Are Intermediate Layers and Labels Really Necessary? A General Language Model Distillation Method
+[[code](https://github.com/aitsc/GLMKD)], [[PDF](https://aclanthology.org/2023.findings-acl.614.pdf)]
 <br> Shicheng Tan, Weng Lam Tam, **Yuanchun Wang**, Wenwen Gong, Shu Zhao, Peng Zhang, Jie Tang
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -129,12 +123,12 @@ Drop me an email if you are interested.
         Meanwhile, based on the long-tailed distribution of word frequencies in the data, GLMD designs a strategy of vocabulary compression through decreasing vocabulary size instead of dimensionality.
     </div>
 </div>
-[[code](https://github.com/aitsc/GLMKD)], [[PDF](https://aclanthology.org/2023.findings-acl.614.pdf)]
+
 
 ## 2022
 
-### NHGMI: Heterogeneous graph multi-view infomax with node-wise contrasting samples selection
-<font color=red>*Knowledge-Based Systems*</font>
+### <font color=red>[KBS]</font> NHGMI: Heterogeneous graph multi-view infomax with node-wise contrasting samples selection
+[[code](https://github.com/KennyNH/NHGMI)], [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705124001552)]
 <br> Qing Li, Hang Ni and **Yuanchun Wang**
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
@@ -147,4 +141,3 @@ Drop me an email if you are interested.
         Diverging from conventional contrastive learning approaches, NHGMI meticulously selects contrasting samples based on similarity metrics, thereby achieving a noise-free contrastive learning paradigm.
     </div>
 </div>
-[[code](https://github.com/KennyNH/NHGMI)], [[PDF](https://www.sciencedirect.com/science/article/abs/pii/S0950705124001552)]
