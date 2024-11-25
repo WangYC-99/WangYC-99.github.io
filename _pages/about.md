@@ -16,8 +16,9 @@ Besides, I love soccer⚽️, photography📷, and snowboarding🏂.
 I also keep training for [triathlon races](https://en.wikipedia.org/wiki/Triathlon) 🏊 🚴 🏃 and [marathon races](https://en.wikipedia.org/wiki/Marathon) 🏃‍♂️.  
 Feel free to chat with me for our shared interests whether in research or life.
 
-### Professional Services
-* Program Committee Member @ CIKM'24 Resorce Track
+### Services
+* Student Volunteer @ [KDD'24](https://kdd2024.kdd.org/)
+* Program Committee Member @ [CIKM'24](https://cikm2024.org/call-for-resource-papers/)
 
 ### 📢 Call For Collaboration ⚠️ ⚠️ ⚠️
 I'm looking for <font color=red>highly motivated collaborators</font> working on **AI4Research**.  
