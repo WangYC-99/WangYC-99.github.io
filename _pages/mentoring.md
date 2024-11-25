@@ -1,5 +1,4 @@
 ---
-permalink: /
 title: "Mentoring"
 author_profile: true
 redirect_from: 
