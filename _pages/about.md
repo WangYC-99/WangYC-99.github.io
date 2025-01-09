@@ -6,14 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
+### Educational Experience
 I am a Ph.D. student at the [School of Information](http://info.ruc.edu.cn/), Renmin University of China, under supervision of [Prof. Jing Zhang](https://xiaojingzi.github.io/).  
-At the same time, I'm a research intern at [THU-KEG](https://keg.cs.tsinghua.edu.cn/) and [ZHIPU.AI](https://www.zhipuai.cn/), under supervision of [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/), [Dr. Jifan Yu](https://yujifan0326.github.io/) and [Dr. Lei Hou](https://www.cs.tsinghua.edu.cn/info/1113/3938.htm).  
 Previous to that, I graduated from [Honors College](https://honors.nwpu.edu.cn/) of Northwestern Polytechnical University, where I majored in Computer Science and Technology, under supervision of [Prof. Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl=en). 
 
+### Working Experience
+Algorithm Intern @ [ZHIPU.AI](https://www.zhipuai.cn/); Sep 2022 - now.  
+Research Intern @ [THU-KEG](https://keg.cs.tsinghua.edu.cn/); advised by [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Dr. Lei Hou](https://www.cs.tsinghua.edu.cn/info/1113/3938.htm); 2023 Sep - now.  
+Algorithm Researcher @ [MAIC TEAM](https://project.maic.chat/team); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/) ; Feb 2024 - now.
+
 ### Interests
-Currently, my research focuses on **Tool Intelligence of LLMs**, **AI4Research** and **Academic Data Mining**.
+Currently, my research focuses on **Tool Intelligence of LLMs**, **AI4Research** and **Academic Data Mining**. 
 Besides, I love soccer⚽️, photography📷, and snowboarding🏂.  
-I also keep training for [triathlon races](https://en.wikipedia.org/wiki/Triathlon) 🏊 🚴 🏃 and [marathon races](https://en.wikipedia.org/wiki/Marathon) 🏃‍♂️.  
+I also keep training for Triathlon races 🏊 🚴 🏃 and Marathon races 🏃‍♂️.  
 Feel free to chat with me for our shared interests whether in research or life.
 
 ### Services
