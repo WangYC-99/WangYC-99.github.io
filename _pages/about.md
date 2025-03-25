@@ -11,9 +11,9 @@ I am a Ph.D. student at the [School of Information](http://info.ruc.edu.cn/), Re
 Previous to that, I graduated from [Honors College](https://honors.nwpu.edu.cn/) of Northwestern Polytechnical University, where I majored in Computer Science and Technology, under supervision of [Prof. Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl=en). 
 
 ### Working Experience
-Algorithm Intern @ [ZHIPU.AI](https://www.zhipuai.cn/); Sep 2022 - now.  
-Research Intern @ [THU-KEG](https://keg.cs.tsinghua.edu.cn/); advised by [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/) and [Dr. Lei Hou](https://www.cs.tsinghua.edu.cn/info/1113/3938.htm); 2023 Sep - now.  
-Algorithm Researcher @ [MAIC TEAM](https://project.maic.chat/team); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/) ; Feb 2024 - now.
+Algorithm Intern @ [ZHIPU.AI](https://www.zhipuai.cn/); Sep 2022 - present.  
+Research Intern @ [THU-KEG](https://keg.cs.tsinghua.edu.cn/); advised by [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/); 2023 Sep - present.  
+Algorithm Researcher @ [MAIC TEAM](https://project.maic.chat/team); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/) ; Feb 2024 - present.
 
 ### Interests
 Currently, my research focuses on **Tool Intelligence of LLMs**, **AI4Research** and **Academic Data Mining**. 
@@ -22,8 +22,10 @@ I also keep training for Triathlon races 🏊 🚴 🏃 and Marathon races 🏃�
 Feel free to chat with me for our shared interests whether in research or life.
 
 ### Services
+* Program Committee Member, Full Research Paper Track @ [CIKM'25](https://cikm2025.org/)
+* Reviewer, ADS Track @ [KDD'25](https://kdd2025.kdd.org/)
 * Student Volunteer @ [KDD'24](https://kdd2024.kdd.org/)
-* Program Committee Member @ [CIKM'24](https://cikm2024.org/call-for-resource-papers/)
+* Program Committee Member, Resourse Track @ [CIKM'24](https://cikm2024.org)
 
 ### 📢 Call For Collaboration ⚠️ ⚠️ ⚠️
 I'm looking for <font color=red>highly motivated collaborators</font> working on **AI4Research**.  
