@@ -11,14 +11,18 @@ I am a Ph.D. student at the [School of Information](http://info.ruc.edu.cn/), Re
 Previous to that, I graduated from [Honors College](https://honors.nwpu.edu.cn/) of Northwestern Polytechnical University, where I majored in Computer Science and Technology, under supervision of [Prof. Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl=en). 
 
 ### Working Experience
-Algorithm Intern @ [ZHIPU.AI](https://www.zhipuai.cn/); Sep 2022 - present.  
-Research Intern @ [THU-KEG](https://keg.cs.tsinghua.edu.cn/); advised by [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/); 2023 Sep - present.  
-Algorithm Researcher @ [MAIC TEAM](https://project.maic.chat/team); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/) ; Feb 2024 - present.
+Research Intern @ X-Lab, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Dr. Fanjin Zhang](https://scholar.google.com/citations?user=V-e7-ooAAAAJ&hl=zh-CN); Mar 2025 - present.  
+Algorithm Researcher @ [MAIC TEAM, Tsinghua Univ. ](https://project.maic.chat/team); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/) ; Feb 2024 - present.
+Research Intern @ [KEG, Tinghus Univ. ](https://keg.cs.tsinghua.edu.cn/); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/) & [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/); Sep 2023 - Dec 2024.  
+Algorithm Intern @ AMiner, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Prof. Jing Zhang](https://xiaojingzi.github.io/);  Sep 2023 - Mar 2025.  
+Algorithm Intern @ Institute of AI, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Weng Lam Tam](https://openreview.net/profile?id=~Weng_Lam_Tam1); Sep 2022 - Sep 2023. 
 
 ### Interests
 Currently, my research focuses on **Tool Intelligence of LLMs**, **AI4Research** and **Academic Data Mining**. 
+
 Besides, I love soccer⚽️, photography📷, and snowboarding🏂.  
 I also keep training for Triathlon races 🏊 🚴 🏃 and Marathon races 🏃‍♂️.  
+
 Feel free to chat with me for our shared interests whether in research or life.
 
 ### Services
@@ -26,11 +30,6 @@ Feel free to chat with me for our shared interests whether in research or life.
 * Reviewer, ADS Track @ [KDD'25](https://kdd2025.kdd.org/)
 * Student Volunteer @ [KDD'24](https://kdd2024.kdd.org/)
 * Program Committee Member, Resourse Track @ [CIKM'24](https://cikm2024.org)
-
-### 📢 Call For Collaboration ⚠️ ⚠️ ⚠️
-I'm looking for <font color=red>highly motivated collaborators</font> working on **AI4Research**.  
-We can provide [internship opportunities](https://m.zhipin.com/mpa/html/weijd/weijd-job/e3a7ad203b03542a1Xx63NW9EldU?date8=20241119&sid=qr_self_jd&openWeapp=1) @ [ZHIPU.AI](https://www.zhipuai.cn/).  
-Drop me an email if you are interested.
 
 # What's New!
 * 🔔 [SoAy](https://arxiv.org/pdf/2405.15165) has been accepted by [KDD'25](https://kdd2025.kdd.org/). Appreciation to all the coauthors! - *Nov 2024*
