@@ -6,16 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### Educational Experience
+### Education Experience
 I am a Ph.D. student at the [School of Information](http://info.ruc.edu.cn/), Renmin University of China, under supervision of [Prof. Jing Zhang](https://xiaojingzi.github.io/).  
 Previous to that, I graduated from [Honors College](https://honors.nwpu.edu.cn/) of Northwestern Polytechnical University, where I majored in Computer Science and Technology, under supervision of [Prof. Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl=en). 
 
-### Working Experience
-Research Intern @ X-Lab, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Dr. Fanjin Zhang](https://scholar.google.com/citations?user=V-e7-ooAAAAJ&hl=zh-CN); Mar 2025 - present.  
-Algorithm Researcher @ [MAIC TEAM, Tsinghua Univ. ](https://project.maic.chat/team); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/) ; Feb 2024 - present.
-Research Intern @ [KEG, Tinghus Univ. ](https://keg.cs.tsinghua.edu.cn/); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/) & [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/); Sep 2023 - Dec 2024.  
-Algorithm Intern @ AMiner, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Prof. Jing Zhang](https://xiaojingzi.github.io/);  Sep 2023 - Mar 2025.  
-Algorithm Intern @ Institute of AI, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Weng Lam Tam](https://openreview.net/profile?id=~Weng_Lam_Tam1); Sep 2022 - Sep 2023. 
+### Industry Experience
+* Research Intern @ X-Lab, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Dr. Fanjin Zhang](https://zfjsail.github.io/); Mar 2025 - present.  
+* Algorithm Researcher @ [MAIC TEAM, Tsinghua Univ. ](https://project.maic.chat/team); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/) ; Feb 2024 - present. 
+* Research Intern @ [KEG, Tinghus Univ. ](https://keg.cs.tsinghua.edu.cn/); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/) & [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/); Sep 2023 - Dec 2024. 
+* Algorithm Intern @ AMiner, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Prof. Jing Zhang](https://xiaojingzi.github.io/);  Sep 2023 - Mar 2025. 
+* Algorithm Intern @ Institute of AI, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Weng Lam Tam](https://openreview.net/profile?id=~Weng_Lam_Tam1); Sep 2022 - Sep 2023. 
 
 ### Interests
 Currently, my research focuses on **Tool Intelligence of LLMs**, **AI4Research** and **Academic Data Mining**. 
