@@ -12,11 +12,11 @@ Previous to that, I graduated from [Honors College](https://honors.nwpu.edu.cn/)
 
 ### Industry Experience
 **Algorithm Intern** @ X-Lab, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Dr. Fanjin Zhang](https://zfjsail.github.io/); Mar 2025 - present.  
-**Algorithm Researcher** @ [MAIC TEAM, Tsinghua Univ. ](https://project.maic.chat/team); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/) ; Feb 2024 - present. 
-**Research Intern** @ [KEG, Tinghus Univ. ](https://keg.cs.tsinghua.edu.cn/); advised by [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/); Sep 2023 - present. 
-**Algorithm Intern** @ AMiner, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Prof. Jing Zhang](https://xiaojingzi.github.io/);  Sep 2023 - Mar 2025. 
-**Algorithm Intern** @ Institute of AI, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/);  Mar 2023 - Sep 2023. 
-**Algorithm Intern** @ Big Model Center, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Weng Lam Tam](https://openreview.net/profile?id=~Weng_Lam_Tam1); Sep 2022 - Mar 2023. 
+**Algorithm Researcher** @ [MAIC TEAM, Tsinghua Univ. ](https://project.maic.chat/team); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/) ; Feb 2024 - present.  
+**Research Intern** @ [KEG, Tinghus Univ. ](https://keg.cs.tsinghua.edu.cn/); advised by [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/); Sep 2023 - present.  
+**Algorithm Intern** @ AMiner, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Prof. Jing Zhang](https://xiaojingzi.github.io/);  Sep 2023 - Mar 2025.  
+**Algorithm Intern** @ Institute of AI, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/);  Mar 2023 - Sep 2023.  
+**Algorithm Intern** @ Big Model Center, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Weng Lam Tam](https://openreview.net/profile?id=~Weng_Lam_Tam1); Sep 2022 - Mar 2023.  
 
 ### Interests
 Currently, my research focuses on **Tool Intelligence of LLMs**, **AI4Research** and **Academic Data Mining**. 
