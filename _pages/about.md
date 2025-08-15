@@ -6,31 +6,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### Education Experience
-I am a Ph.D. student at the [School of Information](http://info.ruc.edu.cn/), Renmin University of China, under supervision of [Prof. Jing Zhang](https://xiaojingzi.github.io/).  
-Previous to that, I graduated from [Honors College](https://honors.nwpu.edu.cn/) of Northwestern Polytechnical University, where I majored in Computer Science and Technology, under supervision of [Prof. Yuchao Dai](https://scholar.google.com/citations?user=fddAbqsAAAAJ&hl=en). 
-
-### Industry Experience
-* **Algorithm Intern** @ X-Lab, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Dr. Fanjin Zhang](https://zfjsail.github.io/); Mar 2025 - present.  
-* **Algorithm Researcher** @ [MAIC TEAM, Tsinghua Univ. ](https://project.maic.chat/team); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/) ; Feb 2024 - present.  
-* **Research Intern** @ [KEG, Tinghus Univ. ](https://keg.cs.tsinghua.edu.cn/); advised by [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/); Sep 2023 - present.  
-* **Algorithm Intern** @ AMiner, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Prof. Jing Zhang](https://xiaojingzi.github.io/);  Sep 2023 - Mar 2025.  
-* **Algorithm Intern** @ Institute of AI, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/);  Mar 2023 - Sep 2023.  
-* **Algorithm Intern** @ Big Model Center, [ZHIPU.AI](https://www.zhipuai.cn/); advised by [Weng Lam Tam](https://openreview.net/profile?id=~Weng_Lam_Tam1); Sep 2022 - Mar 2023.  
-
-### Interests
-Currently, my research focuses on **Tool Intelligence of LLMs**, **AI4Research** and **Academic Data Mining**. 
+### About Me
+I am a third year PhD student at Renmin University of China, under supervision of [Prof. Jing Zhang](https://xiaojingzi.github.io/). Currently, my research focuses on **Tool Intelligence of LLMs**, **AI4Research** and **Academic Data Mining**. 
 
 Besides, I love soccer⚽️, photography📷, and snowboarding🏂.  
 I also keep training for Triathlon races 🏊 🚴 🏃 and Marathon races 🏃‍♂️.  
 
-Feel free to chat with me for our shared interests whether in research or life.
+Feel free to chat with me for our shared interests whether in research or life. 
 
-### Services
-* Program Committee Member, Full Research Paper Track @ [CIKM'25](https://cikm2025.org/)
-* Reviewer, ADS Track @ [KDD'25](https://kdd2025.kdd.org/)
-* Student Volunteer @ [KDD'24](https://kdd2024.kdd.org/)
-* Program Committee Member, Resourse Track @ [CIKM'24](https://cikm2024.org)
+### Industry Experience
+* **Algorithm Intern** @ AI Institute, [ZHIPU.AI](https://www.zhipuai.cn/); Sep 2022 - present.  
+* **Algorithm Researcher** @ [MAIC TEAM, Tsinghua Univ. ](https://project.maic.chat/team); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/) ; Feb 2024 - present.  
+* **Research Intern** @ [KEG, Tsinghua Univ. ](https://keg.cs.tsinghua.edu.cn/); advised by [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/); Sep 2023 - present.  
+
+### Academic Service
+* KDD - Reviewer: [ADS'26](https://kdd2026.kdd.org/), [ADS'25](https://kdd2025.kdd.org/); StuVolunteer: [KDD'24](https://kdd2024.kdd.org/)
+* CIKM - Program Committee Member: [FullResearch'25](https://cikm2025.org/), [Resource'24](https://cikm2024.org)
+* TheWebConf - Reviewer: [Industry'26](https://www2026.thewebconf.org/)
 
 # What's New!
 * 🔔 [SoAy](https://arxiv.org/pdf/2405.15165) has been accepted by [KDD'25](https://kdd2025.kdd.org/). Appreciation to all the coauthors! - *Nov 2024*
