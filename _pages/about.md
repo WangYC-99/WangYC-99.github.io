@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### About Me
 I am a third year PhD student at Renmin University of China, under supervision of [Prof. Jing Zhang](https://xiaojingzi.github.io/). Currently, my research focuses on **Tool Intelligence of LLMs**, **AI4Research** and **Academic Data Mining**. 
 
 Besides, I love soccer⚽️, photography📷, and snowboarding🏂.  
