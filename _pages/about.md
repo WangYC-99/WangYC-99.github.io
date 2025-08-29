@@ -29,6 +29,31 @@ Feel free to chat with me for our shared interests whether in research or life.
 
 
 # Publications
+## 2025
+### Handling Students Dropouts in an LLM-driven Interactive Online Course Using Language Models
+[[PDF](https://arxiv.org/pdf/2508.17310)]
+<br> **Yuanchun Wang**, Yiyang Fu, Jifan Yu, Daniel Zhang-li, Zheyuan Zhang, Joy Lim Jia Yin, Yucheng Wang, Peng Zhou, Jing Zhang, Huiqin Liu
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="https://wangyc-99.github.io/images/pubs/dropouts.jpg" alt="dropouts.jpg">
+    </div>
+    <div style="flex: 2;">
+        Interactive online learning environments, represented by Massive AI-empowered Courses (MAIC), leverage LLM-driven multi-agent systems to transform passive MOOCs into dynamic, text-based platforms, enhancing interactivity through LLMs. This paper conducts an empirical study on a specific MAIC course to explore three research questions about dropouts in these interactive online courses: (1) What factors might lead to dropouts? (2) Can we predict dropouts? (3) Can we reduce dropouts?
+    </div>
+</div>
+
+### LecEval: An Automated Metric for Multimodal Knowledge Acquisition in Multimedia Learning
+[[PDF](https://arxiv.org/pdf/2508.17310)]
+<br> Joy Lim Jia Yin, Daniel Zhang-Li, Jifan Yu, Haoxuan Li, Shangqing Tu, **Yuanchun Wang**, Zhiyuan Liu, Huiqin Liu, Lei Hou, Juanzi Li, Bin Xu
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="https://wangyc-99.github.io/images/pubs/leceval.jpg" alt="leceval.jpg">
+    </div>
+    <div style="flex: 2;">
+        In this paper, we introduce LecEval, an automated metric grounded in Mayer's Cognitive Theory of Multimedia Learning, to evaluate multimodal knowledge acquisition in slide-based learning. LecEval assesses effectiveness using four rubrics: Content Relevance (CR), Expressive Clarity (EC), Logical Structure (LS), and Audience Engagement (AE).
+    </div>
+</div>
+
 ## 2024
 ### From MOOC to MAIC: Reshaping Online Teaching and Learning through LLM-driven Agents 
 [[PDF](https://arxiv.org/pdf/2409.03512v1)]
