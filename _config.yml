@@ -22,9 +22,10 @@ repository               : "WangYC-99/WangYC-99.github.io"
 author:
   # Biographic information
   avatar           : "avatar-black.jpg"
-  name             : "Yuanchun Wang (王元淳)"
+  name             : "Yuanchun Wang"
+  name_zh          : "王元淳"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student"
+  bio              : ""
   location         : "Beijing, China"
   employer         : "Renmin University of China"
   uri              : # URL
