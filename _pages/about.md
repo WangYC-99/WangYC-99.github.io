@@ -13,9 +13,9 @@ I am a fourth year PhD student at Renmin University of China, under supervision 
 Besides, I love soccer⚽️, photography📷, and snowboarding🏂.  
 I also keep training for Triathlon races 🏊 🚴 🏃 and Marathon races 🏃‍♂️.  
 
-Feel free to chat with me for our shared interests whether in research or life. 
+☕️ Feel free to chat with me about shared interests, whether in research or daily life.
 
-### Industry Experience
+### Working Experience
 * **Founder & CEO** @ [AIthletic Co., Ltd.](https://aithletic.fit); Feb 2026 - present.  
 * **Algorithm Intern** @ AI Institute, [Z.AI](https://z.ai/); advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) & [Prof. Jing Zhang](https://xiaojingzi.github.io/); mentored successively by [Weng Lam Tam](https://aclanthology.org/people/weng-lam-tam/unverified/), [Jifan Yu](https://yujifan0326.github.io/), and [Fanjin Zhang](https://zfjsail.github.io/); Sep 2022 - Feb 2026.  
 * **Algorithm Researcher** @ [MAIC TEAM, Tsinghua Univ. ](https://project.maic.chat/team); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/) ; Feb 2024 - present.  
