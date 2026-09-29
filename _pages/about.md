@@ -9,7 +9,9 @@ redirect_from:
 ---
 *Last updated: Sep 2026*
 
-I am a fourth year PhD student at Renmin University of China, under supervision of [Prof. Jing Zhang](https://xiaojingzi.github.io/). Currently, my research focuses on **LM Application** and **AI4Sports**. 
+I am a fourth year PhD student at Renmin University of China, under supervision of [Prof. Jing Zhang](https://xiaojingzi.github.io/). Currently, my research focuses on **LM Application** and **AI4Sports**.
+
+Before that, I received my Bachelor's degree in Computer Science & Technology from the [Honor College](https://honors.nwpu.edu.cn/) of Northwestern Polytechnical University, under the supervision of [Prof. Yuchao Dai](https://teacher.nwpu.edu.cn/en/daiyuchao.html), and I also gained tremendous growth in the [WMJ RoboMaster Team](https://space.bilibili.com/454165986?spm_id_from=333.788.upinfo.detail.click).
 
 Besides, I love soccer⚽️, photography📷, and snowboarding🏂.  
 I also keep training for Triathlon races 🏊 🚴 🏃 and Marathon races 🏃‍♂️.  
