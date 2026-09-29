@@ -19,8 +19,8 @@ I also keep training for Triathlon races 🏊 🚴 🏃 and Marathon races 🏃�
 ### Working Experience
 * **Founder & CEO** @ [AIthletic Co., Ltd.](https://aithletic.fit); Feb 2026 - present.  
 * **Algorithm Intern** @ AI Institute, [Z.AI](https://z.ai/); advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) & [Prof. Jing Zhang](https://xiaojingzi.github.io/); mentored successively by [Weng Lam Tam](https://aclanthology.org/people/weng-lam-tam/unverified/), [Jifan Yu](https://yujifan0326.github.io/), and [Fanjin Zhang](https://zfjsail.github.io/); Sep 2022 - Feb 2026.  
-* **Algorithm Researcher** @ [MAIC TEAM, Tsinghua Univ. ](https://project.maic.chat/team); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/) ; Feb 2024 - present.  
-* **Research Intern** @ [KEG, Tsinghua Univ. ](https://keg.cs.tsinghua.edu.cn/); advised by [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/); Sep 2023 - present.  
+* **Algorithm Researcher** @ [MAIC TEAM, Tsinghua Univ. ](https://project.maic.chat/team); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/) ; Feb 2024 - Aug 2025.  
+* **Research Intern** @ [KEG, Tsinghua Univ. ](https://keg.cs.tsinghua.edu.cn/); advised by [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/); Sep 2023 - Feb 2026.  
 
 ### Academic Service
 * KDD - Reviewer: [ADS'27](https://kdd2027.kdd.org/), [ADS'26](https://kdd2026.kdd.org/), [ADS'25](https://kdd2025.kdd.org/); StuVolunteer: [KDD'24](https://kdd2024.kdd.org/)
