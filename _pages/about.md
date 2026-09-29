@@ -28,7 +28,8 @@ Feel free to chat with me for our shared interests whether in research or life.
 
 # What's New!
 * 🔔 Founded [AIthletic Co., Ltd.](https://aithletic.fit), focusing on AI-powered sports technology. - *Feb 2026*
-* 🔔 Three papers accepted by [KDD'26](https://kdd2026.kdd.org/): SurveyReview, AISE-Bench, and RPC-Bench. Appreciation to all the coauthors! - *Feb 2026*
+* 🔔 Two papers accepted by [KDD'26](https://kdd2026.kdd.org/): SurveyReview and AISE-Bench. Appreciation to all the coauthors! - *Feb 2026*
+* 🔔 RPC-Bench has been accepted by [ACL'26](https://2026.aclweb.org/). Appreciation to all the coauthors! - *Feb 2026*
 * 🔔 [SoAy](https://arxiv.org/pdf/2405.15165) has been accepted by [KDD'25](https://kdd2025.kdd.org/). Appreciation to all the coauthors! - *Nov 2024*
 * 🔔 [R-Eval](https://arxiv.org/abs/2406.11681) has been accepted by [KDD'24](https://kdd2024.kdd.org/). Appreciation to all the coauthors! - *May 2024*
 
@@ -48,7 +49,7 @@ Feel free to chat with me for our shared interests whether in research or life.
     </div>
 </div>
 
-### AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs
+### <font color=red>[KDD'26]</font> AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs
 [[PDF](https://dl.acm.org/doi/abs/10.1145/3770855.3817492)]
 <br> Fanjin Zhang, Zhengyang Wang, Ruixuan Huang, Kefan Zhang, Amy Xin, **Yuanchun Wang**, Shu Zhao, Evgeny Kharlamov, Jie Tang, Juanzi Li
 <div style="display: flex; align-items: center;">
@@ -60,7 +61,7 @@ Feel free to chat with me for our shared interests whether in research or life.
     </div>
 </div>
 
-### RPC-Bench: A Fine-grained Benchmark for Research Paper Comprehension
+### <font color=red>[ACL'26]</font> RPC-Bench: A Fine-grained Benchmark for Research Paper Comprehension
 [[PDF](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=9GALXw4AAAAJ&sortby=pubdate&citation_for_view=9GALXw4AAAAJ:eQOLeE2rZwMC)]
 <br> Yelin Chen, Fanjin Zhang, Suping Sun, Yunhe Pang, **Yuanchun Wang**, Jian Song, Xiaoyan Li, Lei Hou, Shu Zhao, Jie Tang, Juanzi Li
 <div style="display: flex; align-items: center;">
