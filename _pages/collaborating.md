@@ -1,5 +1,6 @@
 ---
 title: "Collaborating"
+permalink: /collaborating/
 author_profile: true
 redirect_from: 
   - /mentoring/
