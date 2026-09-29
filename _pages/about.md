@@ -22,7 +22,7 @@ Feel free to chat with me for our shared interests whether in research or life.
 * **Research Intern** @ [KEG, Tsinghua Univ. ](https://keg.cs.tsinghua.edu.cn/); advised by [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/); Sep 2023 - present.  
 
 ### Academic Service
-* KDD - Reviewer: [ADS'26](https://kdd2026.kdd.org/), [ADS'25](https://kdd2025.kdd.org/); StuVolunteer: [KDD'24](https://kdd2024.kdd.org/)
+* KDD - Reviewer: [ADS'27](https://kdd2027.kdd.org/), [ADS'26](https://kdd2026.kdd.org/), [ADS'25](https://kdd2025.kdd.org/); StuVolunteer: [KDD'24](https://kdd2024.kdd.org/)
 * CIKM - Program Committee Member: [FullResearch'25](https://cikm2025.org/), [Resource'24](https://cikm2024.org)
 * TheWebConf - Reviewer: [Industry'26](https://www2026.thewebconf.org/)
 
@@ -39,7 +39,7 @@ Feel free to chat with me for our shared interests whether in research or life.
 
 ### <font color=red>[KDD'26]</font> SurveyReview: A Reviewer-Aligned Benchmark for Survey Evaluators
 [[PDF](https://dl.acm.org/doi/abs/10.1145/3770855.3817505)]
-<br> Yuheng Zhang, **Yuanchun Wang**, Fanjin Zhang, Ruyu Zhao, Juanzi Li, Jie Tang, Jing Zhang
+<br> Yuheng Zhang *, **Yuanchun Wang** *, Fanjin Zhang, Ruyu Zhao, Juanzi Li, Jie Tang, Jing Zhang
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
         <img src="https://wangyc-99.github.io/images/pubs/surveyreview.jpg" alt="surveyreview.jpg">
