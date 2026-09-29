@@ -21,7 +21,7 @@ repository               : "WangYC-99/WangYC-99.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "avatar.jpg"
   name             : "Yuanchun Wang (王元淳)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student"

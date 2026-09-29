@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "👋 Hi, Nice to Meet You!"
+seo_title: "Yuanchun Wang"
 author_profile: true
 redirect_from: 
   - /about/
