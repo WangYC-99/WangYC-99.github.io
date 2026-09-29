@@ -24,7 +24,7 @@ I also keep training for Triathlon races 🏊 🚴 🏃 and Marathon races 🏃�
 
 ### Academic Service
 * KDD - Reviewer: [ADS'27](https://kdd2027.kdd.org/), [ADS'26](https://kdd2026.kdd.org/), [ADS'25](https://kdd2025.kdd.org/); StuVolunteer: [KDD'24](https://kdd2024.kdd.org/)
-* CIKM - Program Committee Member: [FullResearch'25](https://cikm2025.org/), [Resource'24](https://cikm2024.org)
+* CIKM - Program Committee Member: [Short Papers'26](https://cikm2026.org/), [FullResearch'25](https://cikm2025.org/), [Resource'24](https://cikm2024.org)
 * TheWebConf - Reviewer: [Industry'26](https://www2026.thewebconf.org/)
 
 # What's New!
