@@ -6,7 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a third year PhD student at Renmin University of China, under supervision of [Prof. Jing Zhang](https://xiaojingzi.github.io/). Currently, my research focuses on **Tool Intelligence of LLMs**, **AI4Research** and **Academic Data Mining**. 
+*Last updated: Sep 2026*
+
+I am a fourth year PhD student at Renmin University of China, under supervision of [Prof. Jing Zhang](https://xiaojingzi.github.io/). Currently, my research focuses on **LM Application** and **AI4Sports**. 
 
 Besides, I love soccer⚽️, photography📷, and snowboarding🏂.  
 I also keep training for Triathlon races 🏊 🚴 🏃 and Marathon races 🏃‍♂️.  
@@ -14,7 +16,8 @@ I also keep training for Triathlon races 🏊 🚴 🏃 and Marathon races 🏃�
 Feel free to chat with me for our shared interests whether in research or life. 
 
 ### Industry Experience
-* **Algorithm Intern** @ AI Institute, [ZHIPU.AI](https://www.zhipuai.cn/); Sep 2022 - present.  
+* **Founder & CEO** @ [AIthletic Co., Ltd.](https://aithletic.fit); Feb 2026 - present.  
+* **Algorithm Intern** @ AI Institute, [Z.AI](https://z.ai/); advised by [Prof. Jie Tang](https://keg.cs.tsinghua.edu.cn/jietang/) & [Prof. Jing Zhang](https://xiaojingzi.github.io/); mentored successively by [Weng Lam Tam](https://aclanthology.org/people/weng-lam-tam/unverified/), [Jifan Yu](https://yujifan0326.github.io/), and [Fanjin Zhang](https://zfjsail.github.io/); Sep 2022 - Feb 2026.  
 * **Algorithm Researcher** @ [MAIC TEAM, Tsinghua Univ. ](https://project.maic.chat/team); advised by [Dr. Jifan Yu](https://yujifan0326.github.io/) ; Feb 2024 - present.  
 * **Research Intern** @ [KEG, Tsinghua Univ. ](https://keg.cs.tsinghua.edu.cn/); advised by [Prof. Juanzi Li](https://keg.cs.tsinghua.edu.cn/persons/ljz/); Sep 2023 - present.  
 
@@ -24,11 +27,51 @@ Feel free to chat with me for our shared interests whether in research or life.
 * TheWebConf - Reviewer: [Industry'26](https://www2026.thewebconf.org/)
 
 # What's New!
+* 🔔 Founded [AIthletic Co., Ltd.](https://aithletic.fit), focusing on AI-powered sports technology. - *Feb 2026*
+* 🔔 Three papers accepted by [KDD'26](https://kdd2026.kdd.org/): SurveyReview, AISE-Bench, and RPC-Bench. Appreciation to all the coauthors! - *Feb 2026*
 * 🔔 [SoAy](https://arxiv.org/pdf/2405.15165) has been accepted by [KDD'25](https://kdd2025.kdd.org/). Appreciation to all the coauthors! - *Nov 2024*
 * 🔔 [R-Eval](https://arxiv.org/abs/2406.11681) has been accepted by [KDD'24](https://kdd2024.kdd.org/). Appreciation to all the coauthors! - *May 2024*
 
 
 # Publications
+## 2026
+
+### <font color=red>[KDD'26]</font> SurveyReview: A Reviewer-Aligned Benchmark for Survey Evaluators
+[[PDF](https://dl.acm.org/doi/abs/10.1145/3770855.3817505)]
+<br> Yuheng Zhang, **Yuanchun Wang**, Fanjin Zhang, Ruyu Zhao, Juanzi Li, Jie Tang, Jing Zhang
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="https://wangyc-99.github.io/images/pubs/surveyreview.jpg" alt="surveyreview.jpg">
+    </div>
+    <div style="flex: 2;">
+        A reviewer-aligned benchmark for evaluating survey quality. This work provides a systematic framework for assessing survey papers, aligning evaluation metrics with expert reviewer perspectives to improve the quality assessment of survey literature.
+    </div>
+</div>
+
+### AISE-Bench: A Full-Cycle Curated Benchmark for Information Seeking on Academic Knowledge Graphs
+[[PDF](https://dl.acm.org/doi/abs/10.1145/3770855.3817492)]
+<br> Fanjin Zhang, Zhengyang Wang, Ruixuan Huang, Kefan Zhang, Amy Xin, **Yuanchun Wang**, Shu Zhao, Evgeny Kharlamov, Jie Tang, Juanzi Li
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="https://wangyc-99.github.io/images/pubs/aisebench.jpg" alt="aisebench.jpg">
+    </div>
+    <div style="flex: 2;">
+        A comprehensive benchmark for evaluating information seeking capabilities on academic knowledge graphs. AISE-Bench covers the full cycle of academic information retrieval tasks, providing a curated evaluation framework for assessing how well systems can navigate and extract information from structured academic data.
+    </div>
+</div>
+
+### RPC-Bench: A Fine-grained Benchmark for Research Paper Comprehension
+[[PDF](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=9GALXw4AAAAJ&sortby=pubdate&citation_for_view=9GALXw4AAAAJ:eQOLeE2rZwMC)]
+<br> Yelin Chen, Fanjin Zhang, Suping Sun, Yunhe Pang, **Yuanchun Wang**, Jian Song, Xiaoyan Li, Lei Hou, Shu Zhao, Jie Tang, Juanzi Li
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="https://wangyc-99.github.io/images/pubs/rpcbench.jpg" alt="rpcbench.jpg">
+    </div>
+    <div style="flex: 2;">
+        A fine-grained benchmark designed to evaluate the comprehension capabilities of AI systems on research papers. RPC-Bench provides detailed assessment metrics for understanding various aspects of academic paper content, from basic information extraction to deeper semantic comprehension.
+    </div>
+</div>
+
 ## 2025
 ### Handling Students Dropouts in an LLM-driven Interactive Online Course Using Language Models
 [[PDF](https://arxiv.org/pdf/2508.17310)]
